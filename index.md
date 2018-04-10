@@ -1,33 +1,33 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Currículum de Julián Reynoso
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Julián Reynoso
+_Major_ in Philosophy.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="julianreynoso@unc.edu.ar">julianreynoso@unc.edu.ar</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
-## Currently
+## En la actualidad
 
-Standing on the shoulders of giants
+Escribo mi tesis de licenciatura en filosofía y participo del Proyecto de Investigación “Nombre” PICT.
 
-### Specialized in
+### Especialidad
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Filosofía de las simulaciones computacionales, filosofía de las ciencias, Epistemología, modelización, visualización.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Filosofía de las simulaciones computacionales, filosofía de las ciencias, Epistemología, modelización, visualización.
 
 
-## Education
+## Educación
 
-`1654-1660`
+`2005-`
 __The King's School, Grantham.__
 
 `June 1661 - now`
