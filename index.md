@@ -5,7 +5,7 @@ title: Currículum de Julián Reynoso
 # Julián Reynoso
 __Major(ing)__ in Philosophy.
 
-<!—- Version 0.4 —->
+<!—- Version 0.5 —->
 <div id="webaddress">
 <a href="julianreynoso@unc.edu.ar">julianreynoso@unc.edu.ar</a>
 </div>
