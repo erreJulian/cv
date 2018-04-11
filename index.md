@@ -116,6 +116,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 ## Otros antecedentes
 
-### _Journals_
+### __Journals__
 
 ### Congresos
