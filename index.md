@@ -31,6 +31,7 @@ __Escuela Superior de Comercio “Manuel Belgrano”__
 	+ Técnico básico en gestión organizacional.
 
 ### Cursos tomados
+
 #### Talleres y seminarios
 
 `2015`
