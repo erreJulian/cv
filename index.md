@@ -33,27 +33,30 @@ __Escuela Superior de Comercio “Manuel Belgrano”__
 #### Talleres y seminarios
 
 `2015`
-+  __Python como Herramienta para la Ingeniería__, dictado por el Ing. Martín Gaitán. Escuela de Ingeniería en Computación de la Facultad de Ciencias Exactas, Físicas y Naturales.
+
+ __Python como Herramienta para la Ingeniería__, dictado por el Ing. Martín Gaitán. Escuela de Ingeniería en Computación de la Facultad de Ciencias Exactas, Físicas y Naturales.
 
 `2013`
-+ __Jornadas-Taller de Presentación de Contenidos en Entornos Virtuales de Aprendizaje__, dictado por el Programa de Educación a Distancia de la Secretaría de  Asuntos Académicos, UNC.
+
+__Jornadas-Taller de Presentación de Contenidos en Entornos Virtuales de Aprendizaje__, dictado por el Programa de Educación a Distancia de la Secretaría de  Asuntos Académicos, UNC.
 
 `2011`
-+ Representante tutor en las __Primeras Jornadas de Tutorías Interinstitucionales__,  realizadas en el Pabellón Residencial de la FFyH, UNC.
 
-+ Asistente al __Taller de actualización docente sobre Evolución__, dictado en la Facultad de Ciencias Exactas, Físicas y Naturales de la UNC.
+Representante tutor en las __Primeras Jornadas de Tutorías Interinstitucionales__,  realizadas en el Pabellón Residencial de la FFyH, UNC.
 
-+ Curso __Herramientas computacionales para la investigación en Filosofía, Humanidades y Ciencias Sociales__ dictado por el Dr. José Ahumada y el Dr. Hernán Severgnini del Área de Filosofía del CIFFyH.
+Asistente al __Taller de actualización docente sobre Evolución__, dictado en la Facultad de Ciencias Exactas, Físicas y Naturales de la UNC.
+
+Curso __Herramientas computacionales para la investigación en Filosofía, Humanidades y Ciencias Sociales__ dictado por el Dr. José Ahumada y el Dr. Hernán Severgnini del Área de Filosofía del CIFFyH.
 
 `2010` 
 
-+ Curso-Taller Software Libre en la FFyH: opciones éticas, pedagógicas y técnicas dictado por Valeria Chervin y otros en el marco del Proyecto Universidad en la Sociedad del Conocimiento: Fortalecimiento institucional de áreas dedicadas a la enseñanza universitaria con nuevas tecnologías”.
+Curso-Taller Software Libre en la FFyH: opciones éticas, pedagógicas y técnicas dictado por Valeria Chervin y otros en el marco del Proyecto Universidad en la Sociedad del Conocimiento: Fortalecimiento institucional de áreas dedicadas a la enseñanza universitaria con nuevas tecnologías”.
 
 `2009` 
 
-+ Seminario de Formación Docente para Ayudantes Alumnos de Cátedras de Primer Año, dictado por la Cooridinadora General del Curso de Nielación de la Secretaría Académica de la Facultad de Filosofía y Humanidades, UNC.
+Seminario de Formación Docente para Ayudantes Alumnos de Cátedras de Primer Año, dictado por la Cooridinadora General del Curso de Nielación de la Secretaría Académica de la Facultad de Filosofía y Humanidades, UNC.
 
-+ Taller Evaluación del Aprendizaje en las Ciencias Naturales, dictado por la Dra. Amelia Gort, en el marco del Proyecto Redes Universitarias II, dependiente de la Secretaría de Asuntos Académicos de la UNC.
+Taller Evaluación del Aprendizaje en las Ciencias Naturales, dictado por la Dra. Amelia Gort, en el marco del Proyecto Redes Universitarias II, dependiente de la Secretaría de Asuntos Académicos de la UNC.
 
 #### Idiomas
 
