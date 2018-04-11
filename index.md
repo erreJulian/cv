@@ -36,7 +36,7 @@ __Escuela Superior de Comercio “Manuel Belgrano”__
 
 `2015`
 
- __Python como Herramienta para la Ingeniería__, dictado por el Ing. Martín Gaitán. Escuela de Ingeniería en Computación de la Facultad de Ciencias Exactas, Físicas y Naturales.
+__Python como Herramienta para la Ingeniería__, dictado por el Ing. Martín Gaitán. Escuela de Ingeniería en Computación de la Facultad de Ciencias Exactas, Físicas y Naturales.
 
 `2013`
 
