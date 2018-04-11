@@ -28,42 +28,25 @@ Filosofía de las simulaciones computacionales, filosofía de las ciencias, Epis
 ## Educación
 
 `2005-`
-__The King's School, Grantham.__
+__Licenciatura en Filosofía, Facultad de Filosofías y Humanidades. Universidad Nacional de Córdoba__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`1997-2004`
+__Secundario__
 
 - Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
 
-- Fellow
+## Publicaciones
 
 
+### Capítulos de libro
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2018`
+AFHIC
 
 `1669`
 Lectiones opticæ.
 
-etc. etc. etc.
 
 ### Patents
 
@@ -87,5 +70,3 @@ __Lucasian professor of Mathematics__, Cambridge University
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
