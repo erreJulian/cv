@@ -61,10 +61,10 @@ Taller Evaluación del Aprendizaje en las Ciencias Naturales, dictado por la Dra
 #### Idiomas
 
 `2010`
-+ Curso de 4 años de Inglés, certificado por el Departamento Cultural de la Facultad de Lenguas de la Universidad Nacional de Córdoba.
+Curso de 4 años de Inglés, certificado por el Departamento Cultural de la Facultad de Lenguas de la Universidad Nacional de Córdoba.
 
 `2005`
-+ _Customer Service Representative_, certificado por la Secretaria de Extensión de la Facultad de Lenguas de la Universidad Nacional de Córdoba.
+_Customer Service Representative_, certificado por la Secretaria de Extensión de la Facultad de Lenguas de la Universidad Nacional de Córdoba.
 
 ## Publicaciones
 
@@ -86,6 +86,7 @@ Lectiones opticæ.
 
 
 ## Antecedentes en investigación
+
 ### Grupos de investigación
 
 `1600`
@@ -95,6 +96,7 @@ __Royal Mint__, London
 - Minted coins
 
 `1600`
+
 __Lucasian professor of Mathematics__, Cambridge University
 
 ## Antecedentes docentes
@@ -105,15 +107,14 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 ### Talleres dictados 
 
-### Comisiones evaluadoras
+### Comisiones evaluadoras
 
+## Becas obtenidas
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
-## Becas obtenidas
 ## Extensión
-## Otros antecedentes
+
+## Otros antecedentes
+
 ### _Journals_
 
-### Congresos
+### Congresos
