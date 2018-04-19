@@ -7,9 +7,9 @@ title: Currículum de Julián Reynoso
 # Julián Reynoso
 __Major(ing)__ in Philosophy.
 
-<!—— Version 0.64 ——>
+<!—— Version 0.65 ——>
 <div id="webaddress">
-<a href="mailto:julianreynoso@unc.edu.ar">✉: julianreynoso@unc.edu.ar</a>
+<a href="mailto:julianreynoso@unc.edu.ar">✉ julianreynoso@unc.edu.ar</a>
 </div>
 
 
@@ -175,18 +175,78 @@ Integrante del proyecto bianual tipo A “Modelos de inferencia no estándar, on
 
 ### Ayudantías de cátedra
 
+`2010-2012`
+Ayudante alumno, cátedra de Filosofía de la Ciencia, Escuela de Filosofía (FFyH, UNC). Designado por resolución 168/2010 del HCD. Aprobada por resolución 	512/33.
+	
+`2009-2011`
+Ayudante alumno, cátedra de Seminario Metodológico, Escuela de Filosofía (FFyH, UNC). Designado por resolución 404/09 del HCD. Aprobada por resolución 
+533/12.
+
+`2008/2010`
+Ayudante alumno, cátedra de Lógica I, Escuela de Filosofía (FFyH, UNC) Designado por resolución 155/08 del HCD. Aprobada por resolución Decanal 1049/2010.
+
+`2007-2009`
+Ayudante alumno, cátedra de Seminario Metodológico, Escuela de Filosofía (FFyH, UNC) Designado por resolución 336/07 del HCD. Aprobado por Resolución Decanal 2150/09.
+
 ### Tutorías
+
+`2013`
+Tutor estudiantil becado en el proyecto “Programa de Apoyo y Mejoramiento de Enseñanza de Grado”, según resolución N°160/2013.
+	
+`2011-2012`
+Tutor estudiantil becado en el proyecto “Programa de Apoyo y Mejoramiento de Enseñanza de Grado”, según resolución N°1542.
 
 ### Talleres dictados 
 
+`2009`
+Colaborador en la organización e implementación del Taller de preparación de exámenes, destinado a alumnos de primer año, dictado por la Secretaría Académica de la Facultad.
+
 ### Comisiones evaluadoras
+`2016`
+Representante estudiantil en Introducción.
+
+`2014` 
+Representante estudiantil en la Comisión Evaluadora para la Selección de Antecedentes para un cargo de Profesor Asistente en la Cátedra de Seminario Metodológico.
+
+`2013`
+Representante estudiantil en el Tribunal de Selección de Antecedentes y Entrevista Personal para Adscriptos y Ayudantes Alumnos en el Área de Filosofía del Centro de Investigaciones de la Facultad de Filosofía y Humanidades, certificado el 18 de Abril de 2013.
+
+`2012`
+Veedor estudiantil en el Concurso por oposición y antecedentes para un cargo de Profesor Asistente de la Cátedra de Seminario Metodológico. Designado por resolución 707/2011, certificado el día 31/10/2012.
+
+`2009` 
+Representante estudiantil en la Selección de antecedentes para el equipo estable del “Programa ciclos de nivelación, seguimiento de los primeros años y articulación con la escuela media”. Designado por resolución 519/09; certificado el día 24/10/2009.
 
 ## Becas obtenidas
+`2013`
+Tutor estudiantil becado en el proyecto “Programa de Apoyo y Mejoramiento de Enseñanza de Grado”, según resolución N°160/2013. 
+
+`2011-2012` 
+Tutor estudiantil becado en el Programa de Apoyo y Mejoramiento de la Enseñanza de Grado.
 
 ## Extensión
+`2017`
+Tutor en el Hackatón Desafíos Científicos 2016, organizado por el Ministerio de Educación de la Ciudad Autónoma de Buenos Aires.
+
+`2016`
+Tutor en el Hackatón Desafíos Científicos 2016, organizado por NASA Space Apps y el Ministerio de Educación de la Ciudad Autónoma de Buenos Aires.
+
+`2012-2013` 
+Implementación y mantenimiento de aulas virtuales en plataforma Moodle para difusión del proyecto “Problemáticas relacionadas con el paquete transgénico del cultivo de soja, con especial consideración al impacto sobre el agua”, financiado por el Ministerio de Desarrollo Social de la Nación.
+
+`2010` 
+Disertante en la muestra de carreras de la Universidad Nacional de Córdoba, organizada por la Secretaría de Asuntos Estudiantiles de dicha casa de estudios. 
+
+`2009` 
+Disertante en la muestra de carreras de la Universidad Nacional de Córdoba, organizada por la Secretaría de Asuntos Estudiantiles de dicha casa de estudios.
 
 ## Otros antecedentes
 
 ### __Journals__
+`2016 – 2017`
+Secretario administrativo de la Revista Epistemología e His-
+toria de la Ciencia.
 
 ### Congresos
+`2013 – Presente`
+Secretario durante las Jornadas de Epistemología e Historia de la Ciencia.
