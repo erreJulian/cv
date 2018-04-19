@@ -2,15 +2,15 @@
 layout: cv
 title: Currículum de Julián Reynoso
 ---
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 # Julián Reynoso
 __Major(ing)__ in Philosophy.
 
-<!—— Version 0.63 ——>
+<!—— Version 0.64 ——>
 <div id="webaddress">
-<a href="mailto:julianreynoso@unc.edu.ar">julianreynoso@unc.edu.ar</a>
+<a href="mailto:julianreynoso@unc.edu.ar">✉: julianreynoso@unc.edu.ar</a>
 </div>
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
 ## En la actualidad
@@ -84,7 +84,9 @@ Reynoso, Julián. Repasando el rol de los experimentos imaginarios en ciencia. E
 ### Presentaciones a congresos
 
 `2018`
+“Sobre la complejidad de la restauración y la restauración de la complejidad”, con Cecilia Estrabou para el simposio _”Filosofía, Historia y Enseñanza de las Ciencias”_ en el XI Encuentro de la Asociación de Historia y Filosofía de las Ciencias del cono sur.
 
+“La visualización científica como instrumento para la enseñanza de la ciencia” para el simposio _”Filosofía, Historia y Enseñanza de las Ciencias”_ en el XI Encuentro de la Asociación de Historia y Filosofía de las Ciencias del cono sur.
 
 `2016`
 “El nuevo problema de la vieja evidencia” en el X Encuentro de Filosofía e Historia de la Ciencia, organizado por AFHIC.
@@ -119,21 +121,56 @@ científica tienen los egresados de la UNC en carreras de formación científica
 
 ### Asistencia a congresos
 
+`2013`
+I Encuentro de Filosofía de las Ciencias Cognitivas y del Comportamiento.
+
+`2012`
+Primer Workshop sobre modelos y simulaciones en ciencias.
+
+`2011`
+XXII Jornadas de Epistemología e Historia de la Ciencia.
+VI Workshop de Astronomía Computacional, organizado por la Asociación Argentina de Astronomía en el Observatorio Astronómico de Córdoba.
+
+Jornadas “Empezar a Investigar”, dictada por el Dr. Andrés Laguens, organizadas por la Secretaría de Ciencia y Técnica de la Facultad de Filosofía y Humanidades.
+
+`2010`
+XXI Jornadas de Epistemología e historia de la Ciencia.
+
+`2008`
+XVIII Jornadas de Epistemología e Historia de la Ciencia.
+
+`2007`
+IV Jornadas de Filosofía Teórica: Conceptos, Creencias y Racionalidad.
+
+`2006`
+XVII Jornadas de Epistemología e Historia de la Ciencia.
+
+III Jornadas de Filosofía Teórica: Conocimiento, Normatividad y Acción.
 
 ## Antecedentes en investigación
 
 ### Grupos de investigación
 
-`1600`
-__Royal Mint__, London
+#### Integrante.
+`2018-Presente`
+PICT FONCyT.
 
-- Warden
-- Minted coins
+`2016-2018` 
+Miembro del proyecto bianual tipo A “Simulación, explicación y experimentación: una aproximación” financiado por SECyT, UNC; dirigido por la Dra. Marisa Velasco.
 
-`1600`
+`2014-2016`
+Miembro del proyecto bianual tipo A “Simulación, computación y experimentación desde la perspectiva de las prácticas científicas” financiado por SECyT, UNC; dirigido por la Dra. Marisa Velasco.
 
-__Lucasian professor of Mathematics__, Cambridge University
+`2011-2015`
+Miembro colaborador del proyecto “Las prácticas científicas experimentales y observacionales: enfoque epistemológico desde las simulaciones computacionales y la modelización matemática”, (PICT-2011-0280) dirigido por el Dr. Víctor Rodríguez, FONCyT. Aprobado por resolución 140-12.
 
+`2011-2013`
+Miembro del proyecto bianual tipo A “Filosofía de las prácticas científicas: computación, simulación y experimentación” financiado por SECyT, UNC; dirigido por el Dr. Pío García.
+
+Ayudante Alumno en el proyecto “Las prácticas experimentales: metodología y epistemología en la vida de los laboratorios”, dirigido por el Dr. Víctor Rodríguez. CIFFyH, UNC. Designado por resolución 247/2011; Aprobado por resolución 11/2014.
+
+`2008-2010`
+Integrante del proyecto bianual tipo A “Modelos de inferencia no estándar, ontologías formales y sistemas multiagentes”, SECyT, UNC, dirigido por el Dr. Luis Urtubey.
 ## Antecedentes docentes
 
 ### Ayudantías de cátedra
