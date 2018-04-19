@@ -2,7 +2,7 @@
 layout: cv
 title: Currículum de Julián Reynoso
 ---
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.5">
 
 # Julián Reynoso
 __Major(ing)__ in Philosophy.
@@ -67,7 +67,6 @@ _Customer Service Representative_, certificado por la Secretaria de Extensión d
 
 ## Publicaciones
 
-
 ### Capítulos de libro
 
 `2018`
@@ -79,9 +78,7 @@ Ilcic, Andrés; Reynoso, Julián. Si de entender se trata: el rol de la visualiz
 `2013`
 Reynoso, Julián. Repasando el rol de los experimentos imaginarios en ciencia. En _Epistemología e Historia de la Ciencia. Seleccion de trabajos de las XXIII Jornadas_, volumen 19. Hernán Severgnini, José Gustavo Morales, Diana Luz Rabinovich (editores). ISBN 978-950-331073-1. P. 350-358.
 
-
-
-### Presentaciones a congresos
+### Presentaciones en congresos
 
 `2018`
 “Sobre la complejidad de la restauración y la restauración de la complejidad”, con Cecilia Estrabou para el simposio _”Filosofía, Historia y Enseñanza de las Ciencias”_ en el XI Encuentro de la Asociación de Historia y Filosofía de las Ciencias del cono sur.
