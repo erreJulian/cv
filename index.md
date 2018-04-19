@@ -241,8 +241,7 @@ Disertante en la muestra de carreras de la Universidad Nacional de Córdoba, org
 
 ### _Journals_
 `2016 – 2017`
-Secretario administrativo de la Revista Epistemología e His-
-toria de la Ciencia.
+Secretario administrativo de la Revista Epistemología e Historia de la Ciencia.
 
 ### Congresos
 `2013 – Presente`
