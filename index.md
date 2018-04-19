@@ -2,7 +2,7 @@
 layout: cv
 title: Currículum de Julián Reynoso
 ---
-<meta name="viewport" content="width=device-width, initial-scale=1.5">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 # Julián Reynoso
 __Major(ing)__ in Philosophy.
