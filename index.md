@@ -7,7 +7,7 @@ title: Currículum de Julián Reynoso
 # Julián Reynoso
 __Major(ing)__ in Philosophy.
 
-<!—— Version 0.65 ——>
+<!— Version 0.66—>
 <div id="webaddress">
 <a href="mailto:julianreynoso@unc.edu.ar">✉ julianreynoso@unc.edu.ar</a>
 </div>
@@ -151,7 +151,7 @@ III Jornadas de Filosofía Teórica: Conocimiento, Normatividad y Acción.
 
 ### Grupos de investigación
 
-#### Integrante.
+#### Integrante
 `2018-Presente`
 PICT FONCyT.
 
@@ -242,7 +242,7 @@ Disertante en la muestra de carreras de la Universidad Nacional de Córdoba, org
 
 ## Otros antecedentes
 
-### __Journals__
+### _Journals_
 `2016 – 2017`
 Secretario administrativo de la Revista Epistemología e His-
 toria de la Ciencia.
