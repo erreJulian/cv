@@ -200,7 +200,7 @@ Colaborador en la organización e implementación del Taller de preparación de 
 
 ### Comisiones evaluadoras
 `2016`
-Representante estudiantil en Introducción.
+Representante estudiantil en el concurso por dos cargos de Profesor Asistente para la cátedra de Introducción a la Problemática Filosófica de la Escuela de Filosofía de la FFyH.
 
 `2014` 
 Representante estudiantil en la Comisión Evaluadora para la Selección de Antecedentes para un cargo de Profesor Asistente en la Cátedra de Seminario Metodológico.
