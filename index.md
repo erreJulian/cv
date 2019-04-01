@@ -80,24 +80,28 @@ Reynoso, Julián. Repasando el rol de los experimentos imaginarios en ciencia. E
 
 ### Presentaciones en congresos
 
-`2018`
-“Sobre la complejidad de la restauración y la restauración de la complejidad”, con Cecilia Estrabou para el simposio _”Filosofía, Historia y Enseñanza de las Ciencias”_ en el XI Encuentro de la Asociación de Historia y Filosofía de las Ciencias del cono sur.
+`2018`"Y entonces ¿cómo va a estar el clima? Algunas notas sobre la robustez para la predicción de sistemas complejos", con Andrés A. Ilcic para la mesa _¿Y que hacen por nosotros las simulaciones computacionales y los modelos? Apuntes sobre robustez, representación y observabilidad._ Presentado en las XIX Jornadas de Epistemología e Historia de la Ciencia. Córdoba Capital, Córdoba.
 
-“La visualización científica como instrumento para la enseñanza de la ciencia” para el simposio _”Filosofía, Historia y Enseñanza de las Ciencias”_ en el XI Encuentro de la Asociación de Historia y Filosofía de las Ciencias del cono sur.
+`2018`"El paper científico en la época de la reproductibilidad técnica", con Andrés A. Ilcic en el _XI Encuentro Nacional de Filosofía_. Córdoba Capital, Córdoba.
+
+`2018`
+“Sobre la complejidad de la restauración y la restauración de la complejidad”, con Cecilia Estrabou para el simposio _”Filosofía, Historia y Enseñanza de las Ciencias”_ en el XI Encuentro de la Asociación de Historia y Filosofía de las Ciencias del Cono Sur. Buenos Aires, Argentina.
+
+“La visualización científica como instrumento para la enseñanza de la ciencia” para el simposio _”Filosofía, Historia y Enseñanza de las Ciencias”_ en el XI Encuentro de la Asociación de Historia y Filosofía de las Ciencias del cono sur. Buenos Aires, Argentina.
 
 `2016`
-“El nuevo problema de la vieja evidencia” en el X Encuentro de Filosofía e Historia de la Ciencia, organizado por AFHIC.
+“El nuevo problema de la vieja evidencia” en el X Encuentro de Filosofía e Historia de la Ciencia, organizado por AFHIC. Aguas Do Lindoia, Brasil.
 
-“Hacia una articulación de modelos: el caso de big data” con Andrés Ilcic en el X Encuentro de Filosofía e Historia de la Ciencia, organizado por  AFHIC.
+“Hacia una articulación de modelos: el caso de big data” con Andrés Ilcic en el X Encuentro de Filosofía e Historia de la Ciencia, organizado por  AFHIC. Aguas Do Lindoia, Brasil.
 
 `2015`
 “El crimen del doblecontar en las prácticas científicas” en la Mesa Evidencia robustez y (ab)uso de datos. Epistemología de las prácticas científicas, presentado en las XXVI Jornadas de Epistemología e Historia de la Ciencia.
 
 `2014`
-“¿Qué es esa cosa llamada Big Data?” en la Mesa Epistemología y prácticas
-científicas IV: Datos, resolución de problemas y automatismo, en las XXV Jornadas de Epistemología e Historia de la Ciencia, IX Encuentro de AFHIC.
+“¿Qué es esa cosa llamada Big Data?” en la mesa _Epistemología y prácticas
+científicas IV: Datos, resolución de problemas y automatismo_, en las XXV Jornadas de Epistemología e Historia de la Ciencia, IX Encuentro de AFHIC.
 
-“Ahora me ves: La importancia de lo visual en la técnica y la técnica de lo visual”  para el Simposio de Historia y Filosofía de la Tecnología en las XXV Jornadas de  Epistemología e Historia de la Ciencia, IX Encuentro de AFHIC.
+“Ahora me ves: La importancia de lo visual en la técnica y la técnica de lo visual”  para el _Simposio de Historia y Filosofía de la Tecnología_ en las XXV Jornadas de  Epistemología e Historia de la Ciencia, IX Encuentro de AFHIC.
 
 `2013`
 “Si de entender se trata: el rol de la visualización en el procesamiento de datos”, en la mesa Obtención y tratamiento de datos: Un abordaje desde la epistemología de las prácticas científicas; en las XXIV Jornadas de Epistemología e Historia de la Ciencia; La Falda, Córdoba.
