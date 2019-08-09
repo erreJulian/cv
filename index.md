@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Currículum de Julián Reynoso
+title: Currículum Vitae de Julián Reynoso
 ---
 
 # Julián Reynoso
@@ -15,7 +15,7 @@ __Major(ing)__ in Philosophy.
 
 ## En la actualidad
 
-Escribo mi tesis de licenciatura en filosofía y participo del Proyecto de Investigación “Nombre” PICT.
+Escribo mi tesis de licenciatura en filosofía y participo de los proyectos de investigación “Simulaciones computacionales y experimentación desde la perspectiva de las prácticas científicas: una aproximación” PICT 2016-1524, financiado por FONCyT; y "Modelar, simular y experimentar: un análisis epistemológico desde las prácticas científicas" financiado por SECyT de la Universidad Nacional de Córdoba.
 
 ### Research interests
 
