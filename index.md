@@ -79,6 +79,9 @@ Reynoso, Julián. Repasando el rol de los experimentos imaginarios en ciencia. E
 
 ### Presentaciones en congresos
 
+`2019`
+"Apuntes sobre confiabilidad en predicciones de cambio climático". Presentado en las 1ras Jornadas de Jóvenes Investigadores en Filosofía de la Ciencia. Córdoba.
+
 `2018`
 "Y entonces ¿cómo va a estar el clima? Algunas notas sobre la robustez para la predicción de sistemas complejos", con Andrés A. Ilcic para la mesa _¿Y que hacen por nosotros las simulaciones computacionales y los modelos? Apuntes sobre robustez, representación y observabilidad._ Presentado en las XIX Jornadas de Epistemología e Historia de la Ciencia. Córdoba Capital, Córdoba.
 
