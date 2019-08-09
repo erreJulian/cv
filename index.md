@@ -1,4 +1,4 @@
-S---
+---
 layout: cv
 title: Currículum de Julián Reynoso
 ---
@@ -34,7 +34,6 @@ Bachiller en Economía y gestión de las organizaciones y	Técnico básico en ge
 ### Cursos tomados
 
 #### Talleres y seminarios
-
 
 `2015`
 __Python como Herramienta para la Ingeniería__, dictado por el Ing. Martín Gaitán. Escuela de Ingeniería en Computación de la Facultad de Ciencias Exactas, Físicas y Naturales.
@@ -80,9 +79,11 @@ Reynoso, Julián. Repasando el rol de los experimentos imaginarios en ciencia. E
 
 ### Presentaciones en congresos
 
-`2018`"Y entonces ¿cómo va a estar el clima? Algunas notas sobre la robustez para la predicción de sistemas complejos", con Andrés A. Ilcic para la mesa _¿Y que hacen por nosotros las simulaciones computacionales y los modelos? Apuntes sobre robustez, representación y observabilidad._ Presentado en las XIX Jornadas de Epistemología e Historia de la Ciencia. Córdoba Capital, Córdoba.
+`2018`
+"Y entonces ¿cómo va a estar el clima? Algunas notas sobre la robustez para la predicción de sistemas complejos", con Andrés A. Ilcic para la mesa _¿Y que hacen por nosotros las simulaciones computacionales y los modelos? Apuntes sobre robustez, representación y observabilidad._ Presentado en las XIX Jornadas de Epistemología e Historia de la Ciencia. Córdoba Capital, Córdoba.
 
-`2018`"El paper científico en la época de la reproductibilidad técnica", con Andrés A. Ilcic en el _XI Encuentro Nacional de Filosofía_. Córdoba Capital, Córdoba.
+`2018`
+"El paper científico en la época de la reproductibilidad técnica", con Andrés A. Ilcic en el _XI Encuentro Nacional de Filosofía_. Córdoba Capital, Córdoba.
 
 `2018`
 “Sobre la complejidad de la restauración y la restauración de la complejidad”, con Cecilia Estrabou para el simposio _”Filosofía, Historia y Enseñanza de las Ciencias”_ en el XI Encuentro de la Asociación de Historia y Filosofía de las Ciencias del Cono Sur. Buenos Aires, Argentina.
@@ -198,6 +199,12 @@ Tutor estudiantil becado en el proyecto “Programa de Apoyo y Mejoramiento de E
 Tutor estudiantil becado en el proyecto “Programa de Apoyo y Mejoramiento de Enseñanza de Grado”, según resolución N°1542.
 
 ### Talleres dictados 
+
+`2019`
+*Técnicamente, estamos escribiendo: Recursos informáticos e Investigación en Humanidades* en el marco de las "II Jornadas Jóvenes Investigador*s: Producir, inventar, comunicar saber(es)", Centro de Investigaciones de la Facultad de Filosofía y Humanidades; UNC.
+
+`2018`
+*Cómo escribí(mos) un paper? El uso del software para sobrellevar la vida académica* en el marco de las “I Jornadas de Jóvenes Investigador*s: El oficio de Investigar”, Centro de Investigaciones de la Facultad de Filosofía y Humanidades; UNC.
 
 `2009`
 Colaborador en la organización e implementación del Taller de preparación de exámenes, destinado a alumnos de primer año, dictado por la Secretaría Académica de la Facultad.
