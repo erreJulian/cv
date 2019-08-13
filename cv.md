@@ -1,6 +1,5 @@
 
 # Julián Reynoso
-__Major(ing)__ in Philosophy.
 
 <div id="webaddress">
 <a href="mailto:julianreynoso@unc.edu.ar">✉ julianreynoso@unc.edu.ar</a>
@@ -14,10 +13,20 @@ Escribo mi tesis de licenciatura en filosofía y participo de los proyectos de i
 
 ### Intereses de investigación
 
-Filosofía de las simulaciones computacionales, filosofía de las ciencias, Epistemología, modelización, visualización.
+Filosofía de las simulaciones computacionales,filosofía de las ciencias, Epistemología, modelización, visualización, modelos de cambio climático.
 
 ### Habilidades y aptitudes
 
+En el marco de mi participación en las investigaciones arriba mencionadas comencé a indagar sobre métodos y formas de hacer menos engorroso la labor de la investigación y empecé a probar distintas herramientas, desde gestores bibliográficos hasta LaTeX, pasando por Atlas.Ti y distintos gestores de proyectos y tareas.
+Además, gracias a mi paso como secretario de la revista "Epistemología e Historia de la Ciencia", tengo experiencia con Open Journal System.
+
+He aprendido a usar:
++ Office (Word, PowerPoint y Excel).
++ LaTeX.
++ Gestores de bibliografía (Zotero, JabRef y Mendeley).
++ Bases de datos para búsquedas académicas (Google Scholar, EBSCO y PhilPapers).
++ HTML y CSS (principiante).
++ Open Journal System (sistema de gestión de revistas académicas).
 
 ## Educación
 
@@ -233,8 +242,15 @@ Tutor estudiantil becado en el proyecto “Programa de Apoyo y Mejoramiento de E
 Tutor estudiantil becado en el Programa de Apoyo y Mejoramiento de la Enseñanza de Grado.
 
 ## Extensión
+
+`2019`
+Participación en "Filopalooza: un festival de filosofía". Ciudad Autónoma de Buenos Aires.
+
+`2018`
+Tutor en el Hackatón Desafíos Científicos 2018, organizado por el Ministerio de Educación de la Ciudad Autónoma de Buenos Aires.
+
 `2017`
-Tutor en el Hackatón Desafíos Científicos 2016, organizado por el Ministerio de Educación de la Ciudad Autónoma de Buenos Aires.
+Tutor en el Hackatón Desafíos Científicos 2017, organizado por el Ministerio de Educación de la Ciudad Autónoma de Buenos Aires.
 
 `2016`
 Tutor en el Hackatón Desafíos Científicos 2016, organizado por NASA Space Apps y el Ministerio de Educación de la Ciudad Autónoma de Buenos Aires.

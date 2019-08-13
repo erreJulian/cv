@@ -236,6 +236,13 @@ Tutor estudiantil becado en el proyecto “Programa de Apoyo y Mejoramiento de E
 Tutor estudiantil becado en el Programa de Apoyo y Mejoramiento de la Enseñanza de Grado.
 
 ## Extensión
+
+`2019`
+Participación en "Filopalooza: un festival de filosofía". Ciudad Autónoma de Buenos Aires.
+
+`2018`
+Tutor en el Hackatón Desafíos Científicos 2018, organizado por el Ministerio de Educación de la Ciudad Autónoma de Buenos Aires.
+
 `2017`
 Tutor en el Hackatón Desafíos Científicos 2016, organizado por el Ministerio de Educación de la Ciudad Autónoma de Buenos Aires.
 
