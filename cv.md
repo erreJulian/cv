@@ -37,9 +37,20 @@ __Licenciatura en Filosofía, Facultad de Filosofías y Humanidades. Universidad
 __Escuela Superior de Comercio “Manuel Belgrano”__
 Bachiller en Economía y gestión de las organizaciones y	Técnico básico en gestión organizacional.
 
-### Cursos tomados
+### Cursos y talleres
 
-#### Talleres y seminarios
+#### Talleres dictados 
+
+`2019`
+*Técnicamente, estamos escribiendo: Recursos informáticos e Investigación en Humanidades* en el marco de las "II Jornadas Jóvenes Investigador*s: Producir, inventar, comunicar saber(es)", Centro de Investigaciones de la Facultad de Filosofía y Humanidades; UNC.
+
+`2018`
+*Cómo escribí(mos) un paper? El uso del software para sobrellevar la vida académica* en el marco de las “I Jornadas de Jóvenes Investigador*s: El oficio de Investigar”, Centro de Investigaciones de la Facultad de Filosofía y Humanidades; UNC.
+
+`2009`
+Colaborador en la organización e implementación del Taller de preparación de exámenes, destinado a alumnos de primer año, dictado por la Secretaría Académica de la Facultad.
+
+#### Talleres y seminarios tomados
 
 `2015`
 __Python como Herramienta para la Ingeniería__, dictado por el Ing. Martín Gaitán. Escuela de Ingeniería en Computación de la Facultad de Ciencias Exactas, Físicas y Naturales.
@@ -206,17 +217,6 @@ Tutor estudiantil becado en el proyecto “Programa de Apoyo y Mejoramiento de E
 	
 `2011-2012`
 Tutor estudiantil becado en el proyecto “Programa de Apoyo y Mejoramiento de Enseñanza de Grado”, según resolución N°1542.
-
-### Talleres dictados 
-
-`2019`
-*Técnicamente, estamos escribiendo: Recursos informáticos e Investigación en Humanidades* en el marco de las "II Jornadas Jóvenes Investigador*s: Producir, inventar, comunicar saber(es)", Centro de Investigaciones de la Facultad de Filosofía y Humanidades; UNC.
-
-`2018`
-*Cómo escribí(mos) un paper? El uso del software para sobrellevar la vida académica* en el marco de las “I Jornadas de Jóvenes Investigador*s: El oficio de Investigar”, Centro de Investigaciones de la Facultad de Filosofía y Humanidades; UNC.
-
-`2009`
-Colaborador en la organización e implementación del Taller de preparación de exámenes, destinado a alumnos de primer año, dictado por la Secretaría Académica de la Facultad.
 
 ### Comisiones evaluadoras
 `2016`
