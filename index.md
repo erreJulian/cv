@@ -23,13 +23,13 @@ Filosofía de las simulaciones computacionales, filosofía de las ciencias, Epis
 Como participante de distintos proyectos de investigación, comencé a indagar sobre métodos y formas de hacer menos engorrosa la labor de la investigación. Me interesaba concentrarme más en el tema específico que en las formalidades y esto me llevó a probar distintas herramientas, desde gestores bibliográficos hasta LaTeX, pasando por Atlas.Ti y distintos gestores de proyectos y tareas.
 Además, gracias a mi paso como secretario de la revista "Epistemología e Historia de la Ciencia", tengo experiencia con _Open Journal System_.
 
-He aprendido a usar:
-* Office (Word, PowerPoint y Excel).
-* LaTeX.
-* Gestores de bibliografía (Zotero, JabRef y Mendeley).
-* Bases de datos para búsquedas académicas (Google Scholar, EBSCO y PhilPapers).
-* HTML y CSS (principiante).
-* Open Journal System (sistema de gestión de revistas académicas).
+Aprendí a usar:
+`*` Office (Word, PowerPoint y Excel).
+`*` LaTeX.
+`*` Gestores de bibliografía (Zotero, JabRef y Mendeley).
+`*` Bases de datos para búsquedas académicas (Google Scholar, EBSCO y PhilPapers).
+`*` HTML y CSS (principiante).
+`*` Open Journal System (sistema de gestión de revistas académicas).
 
 ## Educación
 
