@@ -24,12 +24,12 @@ Como participante de distintos proyectos de investigación, comencé a indagar s
 Además, gracias a mi paso como secretario de la revista "Epistemología e Historia de la Ciencia", tengo experiencia con _Open Journal System_.
 
 Aprendí a usar:
-`*` Office (Word, PowerPoint y Excel).
-`*` LaTeX.
-`*` Gestores de bibliografía (Zotero, JabRef y Mendeley).
-`*` Bases de datos para búsquedas académicas (Google Scholar, EBSCO y PhilPapers).
-`*` HTML y CSS (principiante).
-`*` Open Journal System (sistema de gestión de revistas académicas).
+- Office (Word, PowerPoint y Excel).
+- LaTeX.
+- Gestores de bibliografía (Zotero, JabRef y Mendeley).
+- Bases de datos para búsquedas académicas (Google Scholar, EBSCO y PhilPapers).
+- HTML y CSS (principiante).
+- Open Journal System (sistema de gestión de revistas académicas).
 
 ## Educación
 
