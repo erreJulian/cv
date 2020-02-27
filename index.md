@@ -1,4 +1,7 @@
-
+---
+layout: cv
+title: Currículum Vitae de Julián Reynoso
+---
 # Julián Reynoso
 
 <div id="webaddress">
