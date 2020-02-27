@@ -16,7 +16,7 @@ Escribo mi tesis de licenciatura en filosofía y participo de los proyectos de i
 
 ### Intereses de investigación
 
-Filosofía de las simulaciones computacionales,filosofía de las ciencias, Epistemología, modelización, visualización, modelos de cambio climático.
+Filosofía de las simulaciones computacionales, filosofía de las ciencias, Epistemología, modelización, visualización, modelos de cambio climático.
 
 ### Habilidades y aptitudes
 
