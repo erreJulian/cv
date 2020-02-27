@@ -188,7 +188,7 @@ III Jornadas de Filosofía Teórica: Conocimiento, Normatividad y Acción.
 
 #### Integrante
 `2018-Presente`
-PICT FONCyT.
+Participante del proyecto "Simulaciones computacionales y experimentación desde la perspectiva de las prácticas científicas: una aproximación.", Dirigido por Pío García. FONCyT PICT-2016-1524.
 
 `2016-2018` 
 Miembro del proyecto bianual tipo A “Simulación, explicación y experimentación: una aproximación” financiado por SECyT, UNC; dirigido por la Dra. Marisa Velasco.
