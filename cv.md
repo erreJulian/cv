@@ -37,7 +37,11 @@ __Licenciatura en Filosofía, Facultad de Filosofías y Humanidades. Universidad
 __Escuela Superior de Comercio “Manuel Belgrano”__
 Bachiller en Economía y gestión de las organizaciones y	Técnico básico en gestión organizacional.
 
-### Cursos y talleres
+### Cursos, talleres y conferencias dictados
+
+#### Conferencias
+
+`2019` *Ladran pero no muerden: herramientas informáticas para el trabajo en humanidades* en el marco de "Taller de herramientas informáticas de investigación en humanidades"; organizado por el Área de Filosofía del Centro de Investigaciones de la Facultad de Filosofía y Humanidades" y la Escuela de Filosofía, FFyH.
 
 #### Talleres dictados 
 
@@ -97,7 +101,16 @@ Reynoso, Julián. Repasando el rol de los experimentos imaginarios en ciencia. E
 ### Presentaciones en congresos
 
 `2019`
-"Apuntes sobre confiabilidad en predicciones de cambio climático". Presentado en las 1ras Jornadas de Jóvenes Investigadores en Filosofía de la Ciencia. Córdoba.
+"El paper científico en la época de la reproductibilidad técnica", con Andrés A. Ilcic. Presentado en el _3er Congreso Argentino de Estudios Sociales de la Ciencia y la Tecnología_. Organziado por Red ESCyT. Mar del Plata.
+
+`2019`
+"¿La práctica hace al experto o el experto hace a la práctica?" con Sofía Mondaca. Presentado en las _XXX Jornadas de Epistemología e Historia de la Ciencia_. Córdoba.   
+
+`2019`
+Comentario al trabajo "Especificación en programación: semántica y flexibilidad" de Xavier Huvelle. Presentado en las _1ras Jornadas de Jóvenes Investigadores en Filosofía de la Ciencia_. Córdoba.
+
+`2019`
+"Apuntes sobre confiabilidad en predicciones de cambio climático". Presentado en las _1ras Jornadas de Jóvenes Investigadores en Filosofía de la Ciencia_. Córdoba.
 
 `2018`
 "Y entonces ¿cómo va a estar el clima? Algunas notas sobre la robustez para la predicción de sistemas complejos", con Andrés A. Ilcic para la mesa _¿Y que hacen por nosotros las simulaciones computacionales y los modelos? Apuntes sobre robustez, representación y observabilidad._ Presentado en las XIX Jornadas de Epistemología e Historia de la Ciencia. Córdoba Capital, Córdoba.
@@ -193,6 +206,7 @@ Ayudante Alumno en el proyecto “Las prácticas experimentales: metodología y 
 
 `2008-2010`
 Integrante del proyecto bianual tipo A “Modelos de inferencia no estándar, ontologías formales y sistemas multiagentes”, SECyT, UNC, dirigido por el Dr. Luis Urtubey.
+
 ## Antecedentes docentes
 
 ### Ayudantías de cátedra
@@ -218,7 +232,11 @@ Tutor estudiantil becado en el proyecto “Programa de Apoyo y Mejoramiento de E
 `2011-2012`
 Tutor estudiantil becado en el proyecto “Programa de Apoyo y Mejoramiento de Enseñanza de Grado”, según resolución N°1542.
 
-### Comisiones evaluadoras
+### Comisiones evaluadoras y tribunales de concursos
+
+`2019`
+Miembro titular del Jurado para el Concurso por oposición y antecedentes para un cargo de Profesor Asistente de la Cátedra de Seminario Metodológico; Designado por resolución 281/2019 del HCD de la FFyH. 
+
 `2016`
 Representante estudiantil en el concurso por dos cargos de Profesor Asistente para la cátedra de Introducción a la Problemática Filosófica de la Escuela de Filosofía de la FFyH.
 
@@ -272,4 +290,4 @@ Secretario administrativo de la Revista Epistemología e Historia de la Ciencia.
 
 ### Congresos
 `2013 – Presente`
-Secretario durante las Jornadas de Epistemología e Historia de la Ciencia.
+Secretario durante la realización las Jornadas de Epistemología e Historia de la Ciencia.
