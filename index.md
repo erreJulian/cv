@@ -92,6 +92,9 @@ _Customer Service Representative_, certificado por la Secretaria de Extensión d
 
 ### Capítulos de libro
 
+`2020`
+[En prensa] Reynoso, Julián. Apuntes sobre confiabilidad en modelos de cambio climático. En _Filosofía de la Ciencia por Jóvenes Investigadores._ 
+
 `2018`
 Ilcic, Andrés; Reynoso, Julián. Hacia una articulación de modelos: el caso de big data. En _Filosofía e historia de la ciencia en el Cono Sur : selección de trabajos del X Encuentro de la Asociación de Filosofía e Historia de la Ciencia del Cono Sur_. Silvio Seno Chibeni et. al (Editores). ISBN: 978-950-33-1401-2. P. 181-193.
 
