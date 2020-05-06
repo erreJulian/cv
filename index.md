@@ -90,10 +90,17 @@ _Customer Service Representative_, certificado por la Secretaria de Extensión d
 
 ## Publicaciones
 
+### Artículos
+
+`2020`
+[En prensa] Reynoso, Julián. Reseña de “Computer Simulations in Science and Engineering” de Juan Manuel Duran. _Epistemología e Historia de la Ciencia_. FFyH, UNC.
 ### Capítulos de libro
 
 `2020`
-[En prensa] Reynoso, Julián. Apuntes sobre confiabilidad en modelos de cambio climático. En _Filosofía de la Ciencia por Jóvenes Investigadores._ 
+[En prensa] Reynoso, Julián. Apuntes sobre confiabilidad en modelos de cambio climático. En _Filosofía de la Ciencia por Jóvenes Investigadores._ Mondaca, Sofía; Mauro, Agustín; Heredia, Ignacio (Eds.).
+
+`2020`
+[En prensa] Comentario al trabajo “Especificación en programación: semántica y flexibilidad” de Xavier Huvelle. En _Filosofía de la Ciencia por Jóvenes Investigadores_. Mondaca, Sofía; Mauro, Agustín; Heredia, Ignacio (Eds.). Córdoba.
 
 `2018`
 Ilcic, Andrés; Reynoso, Julián. Hacia una articulación de modelos: el caso de big data. En _Filosofía e historia de la ciencia en el Cono Sur : selección de trabajos del X Encuentro de la Asociación de Filosofía e Historia de la Ciencia del Cono Sur_. Silvio Seno Chibeni et. al (Editores). ISBN: 978-950-33-1401-2. P. 181-193.
