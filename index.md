@@ -93,7 +93,7 @@ _Customer Service Representative_, certificado por la Secretaria de Extensión d
 ### Artículos
 
 `2020`
-[Reseña de “Computer Simulations in Science and Engineering”] (https://revistas.unc.edu.ar/index.php/afjor/article/view/28214) de Juan Manuel Duran. En _Epistemología e Historia de la Ciencia_. FFyH, UNC.
+Reseña de (“Computer Simulations in Science and Engineering”) [https://revistas.unc.edu.ar/index.php/afjor/article/view/28214] de Juan Manuel Duran. En _Epistemología e Historia de la Ciencia_. FFyH, UNC.
 
 ### Capítulos de libro
 
