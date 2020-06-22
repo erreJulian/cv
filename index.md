@@ -93,23 +93,24 @@ _Customer Service Representative_, certificado por la Secretaria de Extensión d
 ### Artículos
 
 `2020`
-[En prensa] Reynoso, Julián. Reseña de “Computer Simulations in Science and Engineering” de Juan Manuel Duran. _Epistemología e Historia de la Ciencia_. FFyH, UNC.
+[Reseña de “Computer Simulations in Science and Engineering”] (https://revistas.unc.edu.ar/index.php/afjor/article/view/28214) de Juan Manuel Duran. En _Epistemología e Historia de la Ciencia_. FFyH, UNC.
+
 ### Capítulos de libro
 
 `2020`
-[En prensa] Reynoso, Julián. Apuntes sobre confiabilidad en modelos de cambio climático. En _Filosofía de la Ciencia por Jóvenes Investigadores._ Mondaca, Sofía; Mauro, Agustín; Heredia, Ignacio (Eds.).
+[En prensa] Apuntes sobre confiabilidad en modelos de cambio climático. En _Filosofía de la Ciencia por Jóvenes Investigadores._ Mondaca, Sofía; Mauro, Agustín; Heredia, Ignacio (Eds.).
 
 `2020`
 [En prensa] Comentario al trabajo “Especificación en programación: semántica y flexibilidad” de Xavier Huvelle. En _Filosofía de la Ciencia por Jóvenes Investigadores_. Mondaca, Sofía; Mauro, Agustín; Heredia, Ignacio (Eds.). Córdoba.
 
 `2018`
-Ilcic, Andrés; Reynoso, Julián. Hacia una articulación de modelos: el caso de big data. En _Filosofía e historia de la ciencia en el Cono Sur : selección de trabajos del X Encuentro de la Asociación de Filosofía e Historia de la Ciencia del Cono Sur_. Silvio Seno Chibeni et. al (Editores). ISBN: 978-950-33-1401-2. P. 181-193.
+(En colaboración con Andrés Ilcic). Hacia una articulación de modelos: el caso de big data. En _Filosofía e historia de la ciencia en el Cono Sur : selección de trabajos del X Encuentro de la Asociación de Filosofía e Historia de la Ciencia del Cono Sur_. Silvio Seno Chibeni et. al (Editores). ISBN: 978-950-33-1401-2. P. 181-193.
 
 `2015`
-Ilcic, Andrés; Reynoso, Julián. Si de entender se trata: el rol de la visualización en el procesamiento de datos. En _Epistemología y prácticas científicas_. Víctor Rodriguez, Marisa Velasco, Pío García (compiladores). ISBN 978-987-707-010-1. P. 171-185.
+(En colaboración con Andrés Ilcic). Si de entender se trata: el rol de la visualización en el procesamiento de datos. En _Epistemología y prácticas científicas_. Víctor Rodriguez, Marisa Velasco, Pío García (compiladores). ISBN 978-987-707-010-1. P. 171-185.
 
 `2013`
-Reynoso, Julián. Repasando el rol de los experimentos imaginarios en ciencia. En _Epistemología e Historia de la Ciencia. Seleccion de trabajos de las XXIII Jornadas_, volumen 19. Hernán Severgnini, José Gustavo Morales, Diana Luz Rabinovich (editores). ISBN 978-950-331073-1. P. 350-358.
+Repasando el rol de los experimentos imaginarios en ciencia. En _Epistemología e Historia de la Ciencia. Seleccion de trabajos de las XXIII Jornadas_, volumen 19. Hernán Severgnini, José Gustavo Morales, Diana Luz Rabinovich (editores). ISBN 978-950-331073-1. P. 350-358.
 
 ### Presentaciones en congresos
 
