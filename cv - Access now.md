@@ -18,7 +18,7 @@ Filosofía de las simulaciones computacionales,filosofía de las ciencias, Epist
 ### Habilidades y aptitudes
 
 En el marco de mi participación en las investigaciones arriba mencionadas comencé a indagar sobre métodos y formas de hacer menos engorroso la labor de la investigación y empecé a probar distintas herramientas, desde gestores bibliográficos hasta LaTeX, pasando por Atlas.Ti y distintos gestores de proyectos y tareas.
-Además, gracias a mi paso como secretario de la revista "Epistemología e Historia de la Ciencia", tengo experiencia con Open Journal System.
+Además, gracias a mi paso por distintos congresos y conferencias de la especialidad, he desarrollado un profundo interés por la tecnología en general, y la computación en particular, y el impacto que tienen en nuestra vida.
 
 He aprendido a usar:
 + Office (Word, PowerPoint y Excel).
